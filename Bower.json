@@ -1,0 +1,10 @@
+{
+  "name": "bower",
+  "version": "0.0.1",
+  "author": "developerName",
+  "license": "ISC",
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2"
+  }
+}
